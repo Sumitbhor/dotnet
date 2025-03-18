@@ -1,0 +1,15 @@
+double interest(float principle,float t, float n,float rate){
+    double z;
+  z=principle*Math.Pow((1+rate/100/n),(n*t));
+   return z ;
+}
+  Console.WriteLine("enter your principle amopunt");
+   float principle=float.Parse(Console.ReadLine());
+    Console.WriteLine("how many time interest compunded ?");
+   float n=float.Parse(Console.ReadLine());
+    Console.WriteLine("enter your rate of interest");
+    float rate=float.Parse(Console.ReadLine());
+    Console.WriteLine("how many years you invested ");
+    float t=float.Parse(Console.ReadLine());
+double result1=interest(principle,t,n,rate);
+Console.WriteLine("compound interest = {0}",result1);

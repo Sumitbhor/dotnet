@@ -1,0 +1,22 @@
+using System.Net;
+float CalculateArea( int radius){
+    float area;
+    area=3.14f*radius*radius;
+    return area;
+}
+
+float CalculateCircumference(int radius){
+    float x;
+    x=2*3.14f*radius;
+    return x;
+}
+float result1,result2;
+int radius=0;
+
+Console.WriteLine("enter radius");
+radius=int.Parse(Console.ReadLine());
+
+result1=CalculateArea(radius);
+result2=CalculateCircumference(radius);
+Console.WriteLine("area={0}", result1);
+Console.WriteLine("circumference={0}", result2);

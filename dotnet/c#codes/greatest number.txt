@@ -1,0 +1,28 @@
+int largestNumber(int a,int b,int c){
+    int z;
+if(a>b){
+   
+    if(c>a){
+       z=c;
+    }
+    else{
+        z=a;;
+    }
+}
+else{
+     if(b>c){
+        z=b;
+    }
+    else{
+        z=c;
+    }
+}
+return z;
+} 
+int result;
+Console.WriteLine("enter your 3 digit");
+int a=int.Parse(Console.ReadLine());
+int b=int.Parse(Console.ReadLine());
+int c=int.Parse(Console.ReadLine());
+result=largestNumber(a,b,c);
+Console.WriteLine("{0}is greatest number",result); 

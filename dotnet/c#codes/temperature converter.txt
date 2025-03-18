@@ -1,0 +1,10 @@
+float UnitConverter(float temp){
+    float y;
+    y=(temp*9/5)+32;
+    return y;
+}
+float temp=0,result;
+Console.WriteLine("enter your temprature in celsius");
+temp=int.Parse(Console.ReadLine());
+result=UnitConverter(temp);
+Console.WriteLine("temperature={0} F",result);

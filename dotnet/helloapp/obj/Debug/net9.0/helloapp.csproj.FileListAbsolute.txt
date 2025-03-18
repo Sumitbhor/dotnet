@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Desktop\TAP\dotnet\helloapp\bin\Debug\net9.0\helloapp.exe
+C:\Users\hp\OneDrive\Desktop\TAP\dotnet\helloapp\bin\Debug\net9.0\helloapp.deps.json
+C:\Users\hp\OneDrive\Desktop\TAP\dotnet\helloapp\bin\Debug\net9.0\helloapp.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\TAP\dotnet\helloapp\bin\Debug\net9.0\helloapp.dll
+C:\Users\hp\OneDrive\Desktop\TAP\dotnet\helloapp\bin\Debug\net9.0\helloapp.pdb
+C:\Users\hp\OneDrive\Desktop\TAP\dotnet\helloapp\obj\Debug\net9.0\helloapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\TAP\dotnet\helloapp\obj\Debug\net9.0\helloapp.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\TAP\dotnet\helloapp\obj\Debug\net9.0\helloapp.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\TAP\dotnet\helloapp\obj\Debug\net9.0\helloapp.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\TAP\dotnet\helloapp\obj\Debug\net9.0\helloapp.dll
+C:\Users\hp\OneDrive\Desktop\TAP\dotnet\helloapp\obj\Debug\net9.0\refint\helloapp.dll
+C:\Users\hp\OneDrive\Desktop\TAP\dotnet\helloapp\obj\Debug\net9.0\helloapp.pdb
+C:\Users\hp\OneDrive\Desktop\TAP\dotnet\helloapp\obj\Debug\net9.0\helloapp.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\TAP\dotnet\helloapp\obj\Debug\net9.0\ref\helloapp.dll

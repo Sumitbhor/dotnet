@@ -1,0 +1,92 @@
+/Program is collection of statements
+//What is function ?
+//if some input is given , it gives output
+//Function is nothing but an engine
+//Engine is nothing but a function  
+//Function is nothing but logic
+ 
+ 
+//   potential Enrgy---->Engine----->Kinetic entergy
+//   fuel--------->Oil Engine--->Thrust
+//    Input------->Engine------>OutPut
+//    Purchase ford engine  (inbult function) (ready made function)
+ 
+ 
+//Addition: name of function
+// op1 and op1 are input parameters
+//function returns sum data
+ 
+ 
+//We have written implementation of  following functions
+ 
+void SayHi(){
+    //Logic
+    //grouping of more than one statements
+    //it consist of three statements
+     Console.WriteLine("I am saying Hi to Nikita");
+     Console.WriteLine("Welcome to Transflower");
+     Console.WriteLine("This is simple way of learning programming");
+     
+     //56 is data assigned to result variable of data type int
+     int result=56;  //single element
+ 
+     //45, 67, 87, 34, 54 are multle integer data values assinged to marks
+     //variable of type integer array
+ 
+     int [] marks ={45,67,87,34,54}; //multiple elements array
+}
+ 
+int Addition(int op1, int op2){
+ 
+    //Logic
+    //local variable
+    int  sumResult=op1+ op2;
+    return sumResult;
+}
+ 
+int Subraction(int op1, int op2){
+   
+    //logic
+    //local variable
+    int  subractResult=op1- op2;
+    return subractResult;
+}
+ 
+ 
+//Invoking function.
+Console.WriteLine("Hello Sarthak!");   //(inbult function) (ready made function)
+ 
+//Variable declaration
+// count is variable
+// 56 is data
+//int  is data type
+//float is data type
+ 
+int data;   // this is just variable declaration
+int count=56;  // this variable declaration with initialization
+float unitprice=54.5f;
+char ch='H';
+char ch2='M';
+bool status=true;
+ 
+unitprice=78.5f;  //here variable is assigned with new data
+ 
+ 
+Console.WriteLine("Count ={0}",count);
+ 
+//data: sarthak kadam
+//variable :fullname
+//data type: string
+//Collection of charcters
+ 
+string fullname="Sarthak Kadam";
+ 
+ 
+//Invoke function
+//Call Function
+//Consume function
+SayHi(); //User Defined Function
+ 
+int result1=Addition(67,87);
+int result2=Addition(8,8);
+int result3=Addition(8,9);

@@ -1,0 +1,32 @@
+bool
+using System.Net;
+bool login(string email, int password){
+    bool status=false;
+    
+    if (email==input1&&password==input2){
+        status=true;
+    }
+    else{
+        status = false;
+    }
+    return status;
+}
+Console.WriteLine("*******sign up ********");
+Console.WriteLine("enter your email");
+input1=Console.ReadLine();
+Console.WriteLine("set your password");
+input2=Console.ReadLine();
+Console.WriteLine("******* login  ********");
+Console.WriteLine("enter your email");
+string email=Console.ReadLine();
+Console.WriteLine("enter your password");
+int password=Console.ReadLine();
+
+bool validuser=false;
+validuser(email,password);
+if (validuser==true){
+    Console.WriteLine("welcome to transflower");
+}
+else{
+    Console.WriteLine("you are not register");
+}*/
